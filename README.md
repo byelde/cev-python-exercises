@@ -1,5 +1,5 @@
-#cev-python-exercises
+# CeV Exercises
 
-Aggregation of exercises from Curso em Vídeo Python Course
-
-Conjunto de exercícios do Curso de Python do Curso em vídeo
+---
+## Descrição
+Conjunto de atividades realizadas ao longo do curso de python da plataforma Curso em Vídeo do professor Gustavo Guanabara; 
